@@ -47,7 +47,7 @@ git checkout -b feat-add-rahul
 
 
 ## 5. Make the required changes
-Check out the [CONTRIBUTING.md](/CONTRIBUTING.md) file to see what all contributions can you make. 
+Check out the issues tab to see what all contributions can you make.
 
 
 
