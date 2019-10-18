@@ -1,7 +1,7 @@
 # Vue Boilerplate
 Boilerplate for vuejs
 
-# Contribute to this repository.
+# How to Contribute to this repository
 
 Let's make a simple contribution to this repository and increase your chances of winning awesome cool swags from Hacktober Fest.
 
@@ -12,7 +12,6 @@ Let me show you how easy it is:
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-------
 
 ## 2. Clone the repository
 
@@ -26,7 +25,6 @@ For example:
 git clone https://github.com/rahuldkjain/vue-boilerplate.git 
 ```
 
-------
 
 ## 3. Move inside the repository 
 Since you want to change the files inside, first let's move to the folder correctly. Use the following command on terminal:  
@@ -48,13 +46,11 @@ For example:
 git checkout -b feat-add-rahul
 ```
 
------
 
 ## 5. Make the required changes
 Check out the [CONTRIBUTING.md](/CONTRIBUTING.md) file to see what all contributions can you make. 
 
 
-----
 
 ## 6. Commit all your changes
 It's finally that time when you commit your changes and leave a beautiful commit message behind. You can run the following commands:
@@ -81,18 +77,11 @@ For example:
 git push origin feat-add-rahul 
 ```
 
------
 
 ## 7. Hit me a pull request
 
 If you go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button.
 Now submit the pull request. Leave a custom message if you want.
-
------
-
-# Motivation
-Contributing to Open Source can be a highly satisfying experience, especially for new developers out there who have just started with their journey. I am one of such developer, who is teaching himself to penetrate into on Frontend Development by teaching himself Web Development and Programming.
-I believe there are many more students/self-taught beginners out there, waiting for their first cool swags and T-shirt to boast about along with a great learning experience. So I started a small initiative to support all of you in this journey including myself.
 
 
 How will this work:  
