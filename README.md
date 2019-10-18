@@ -32,7 +32,6 @@ Since you want to change the files inside, first let's move to the folder correc
 cd vue-boilerplate
 ```
 
-------
 
 
 ## 4. Make a new branch 
