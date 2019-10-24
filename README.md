@@ -89,3 +89,12 @@ I learn how to maintain a repository where people contribute, a win-win status f
 
 Happy Coding. Hope you all get your cool swags :) 
 
+## 7. How to run project
+
+For example:  
+```sh
+npm run serve
+open the browser ENTER 'http://localhost:8080/ '
+```
+
+You should see app running. store file acts like backend database or api connection & router file maps to different routing pages. This is initial project set up. Once the Shopping Cart component is complete you will have mini full blown application. However it won't work for payment mechanisim. You can add up whatever you like on top of this. Good luck. I am very busy when I get a chance I will finish shopping cart section as well.
